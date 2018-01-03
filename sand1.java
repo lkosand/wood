@@ -1,3 +1,4 @@
+package sand;
 import java.util.Scanner;
 public class sand1{
     
